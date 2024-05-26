@@ -9,3 +9,7 @@ Shortcuts:
 Install:
 
     Must install auto-cpufreq as daemon
+
+Software:
+
+    Install and config timeshift
