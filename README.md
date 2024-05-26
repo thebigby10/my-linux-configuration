@@ -3,9 +3,9 @@
 Shortcuts:
 
     ctrl+alt+shift+s to command shutdown now
-<<<<<<< HEAD
-    
-=======
 
->>>>>>> 9d7e334 (updated repo)
     alt+b to the script acpi_notify.sh
+
+Install:
+
+    Must install auto-cpufreq as daemon
