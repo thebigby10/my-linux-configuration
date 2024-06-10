@@ -8,8 +8,13 @@ Shortcuts:
 
 Install:
 
-    Must install auto-cpufreq as daemon
+    Must install tlp as daemon and configure
+    Install ytfzf
+    Install powertop
 
 Software:
 
-    Install and config timeshift
+    Install sublime text
+    Install vs-code
+    Install brave
+    Install min
