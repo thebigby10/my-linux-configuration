@@ -2,14 +2,16 @@
 
 Shortcuts:
 
-    ctrl+alt+shift+s to command shutdown now
+    ctrl+alt+shift+s to shutdown now
 
     alt+b to the script acpi_notify.sh
+
+    special-key to audacious -u
 
 Install:
 
     Must install tlp as daemon and configure
-    Install ytfzf
+    Install yt-dlp
     Install powertop
 
 Software:
