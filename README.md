@@ -14,6 +14,7 @@ Install:
     Install yt-dlp
     Install powertop
     Install nvim with nvchad
+    Install tmate
 
 Software:
 
