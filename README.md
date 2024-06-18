@@ -13,6 +13,7 @@ Install:
     Must install tlp as daemon and configure
     Install yt-dlp
     Install powertop
+    Install nvim with nvchad
 
 Software:
 
