@@ -19,6 +19,7 @@ Install:
     Install tmux
     Install station
     Install foot
+    Install rclone
 
 Software:
 
@@ -37,3 +38,5 @@ Usage Setup:
 Coding Setup:
 
 Note-taking Setup:
+
+    Main idea is to take note with nvim with native markdown on nvim and sync a kbase (short of knowledge-base) with rclone.
