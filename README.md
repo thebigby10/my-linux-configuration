@@ -8,7 +8,7 @@ Shortcuts:
 
     special-key to audacious -u
 
-    switch to dektop X(1-4) to alt+X
+    switch to dektop X(1-5) to alt+X
 
 Install:
 
@@ -18,6 +18,7 @@ Install:
     Install nvim with nvchad
     Install tmux
     Install station
+    Install foot
 
 Software:
 
@@ -26,8 +27,13 @@ Software:
     Install brave
     Install min
 
-Setup:
+Usage Setup:
 
-    Make brave, terminal(konsole) and station autostartup
-    make them default open to desktop 1,2 and 4 respectivly. 
-    create shortcut to switch to dektop X(1-4) to alt+X
+    Make brave, terminal(konsole), foot and station autostartup
+    make them default open to desktop 1, 2, 3 and 5 respectivly. 
+    create shortcut to switch to dektop X(1-5) to alt+X
+    They are for browser, nvim, kbase and messages respectivly.
+
+Coding Setup:
+
+Note-taking Setup:
