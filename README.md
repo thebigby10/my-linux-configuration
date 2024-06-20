@@ -14,7 +14,7 @@ Install:
 
     Install ytfzf
     Install auto-cpufreq
-    Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), render-markdown(https://github.com/MeanderingProgrammer/markdown.nvim) )
+    Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), render-markdown(https://github.com/MeanderingProgrammer/markdown.nvim) ), nvm-cheatsh (https://github.com/siawkz/nvim-cheatsh)
     Install tmux
     Install station
     Install foot
