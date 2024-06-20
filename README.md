@@ -14,7 +14,7 @@ Install:
 
     Must install tlp as daemon and configure
     Install ytfzf
-    Install tlp
+    Install auto-cpufreq
     Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), render-markdown(https://github.com/MeanderingProgrammer/markdown.nvim) )
     Install tmux
     Install station
