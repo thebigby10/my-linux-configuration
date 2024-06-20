@@ -37,4 +37,4 @@ Coding Setup:
 
 Note-taking Setup:
 
-    Main idea is to take note with nvim with native markdown on nvim and sync the kbase (short of knowledge-base) on github.
+    open notion.so with luakit.
