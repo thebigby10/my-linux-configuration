@@ -14,7 +14,7 @@ Install:
 
     Install ytfzf
     Install auto-cpufreq
-    Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), nvm-cheatsh (https://github.com/siawkz/nvim-cheatsh)
+    Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), nvm-cheatsh (https://github.com/siawkz/nvim-cheatsh), auto-save( https://github.com/pocco81/auto-save.nvim )
     Install tmux
     Install station
     Install webapp-manager
