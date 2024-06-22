@@ -18,6 +18,7 @@ Install:
     Install tmux
     Install station
     Install webapp-manager
+    Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
 
 Software:
 
