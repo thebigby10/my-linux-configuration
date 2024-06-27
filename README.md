@@ -16,6 +16,11 @@ Install:
     Install auto-cpufreq
     Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), nvm-cheatsh (https://github.com/siawkz/nvim-cheatsh), auto-save( https://github.com/pocco81/auto-save.nvim )
     Install tmux
+        set -g @plugin 'tmux-plugins/tpm'
+        set -g @plugin 'tmux-plugins/tmux-sensible'
+        set -g @plugin 'tmux-plugins/tmux-resurrect'
+        set -g @plugin 'Determinant/tmux-colortag'
+        set -g @plugin 'tmux-plugins/tmux-continuum' #End of the config file.
     Install station
     Install webapp-manager
     Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
