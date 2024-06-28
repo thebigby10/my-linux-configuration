@@ -18,9 +18,10 @@ Install:
     Install tmux
         set -g @plugin 'tmux-plugins/tpm'
         set -g @plugin 'tmux-plugins/tmux-sensible'
+        set -g @plugin 'ofirgall/tmux-window-name'
         set -g @plugin 'tmux-plugins/tmux-resurrect'
         set -g @plugin 'Determinant/tmux-colortag'
-        set -g @plugin 'tmux-plugins/tmux-continuum' #End of the config file.
+        set -g @plugin 'tmux-plugins/tmux-continuum'
     Install station
     Install webapp-manager
     Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
