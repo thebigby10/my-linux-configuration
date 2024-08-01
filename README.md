@@ -26,6 +26,7 @@ Install:
     Install webapp-manager
     Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
     install wisdom-tree
+    install supermaven (https://github.com/supermaven-inc/supermaven-nvim)
 
 Software:
 
