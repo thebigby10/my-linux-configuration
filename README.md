@@ -33,6 +33,7 @@ Software:
     Install sublime text
     Install vs code
     Install brave
+    install zed
 
 Usage Setup:
 
