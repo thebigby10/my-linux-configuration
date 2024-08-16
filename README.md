@@ -53,15 +53,19 @@ Note-taking Setup:
 
 Solving the Wifi Limited Connection problem:
     
-Disable Bluetooth Coexistence
-
-    You can try disabling Bluetooth coexistence in your Wi-Fi settings, which may reduce interference. To do this, you can add a configuration file:
-        Create or edit the file /etc/modprobe.d/iwlwifi.conf.
-        Add the following line:
-            options iwlwifi bt_coex_active=0
-        Reboot your system.
-
 Disable Power Saving on Wi-Fi
 
-    Disabling power-saving modes can sometimes reduce the impact of interference:
-        sudo iw dev wlan0 set power_save off
+    Open this file with your favorite text editor, I use nano here:
+    sudo nano /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
+    By default there is:
+    
+        [connection]
+        wifi.powersave = 3
+    
+    Change the value to 2.
+
+    Possible values for the wifi.powersave field are:
+        NM_SETTING_WIRELESS_POWERSAVE_DEFAULT (0): use the default value
+        NM_SETTING_WIRELESS_POWERSAVE_IGNORE  (1): don't touch existing setting
+        NM_SETTING_WIRELESS_POWERSAVE_DISABLE (2): disable powersave
+        NM_SETTING_WIRELESS_POWERSAVE_ENABLE  (3): enable powersave
