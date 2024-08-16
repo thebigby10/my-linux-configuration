@@ -6,7 +6,7 @@ Shortcuts:
 
     alt+b to the script acpi_notify.sh
 
-    special-key to audacious -u
+    special-key to media play/pause
 
     switch to dektop X(1-5) to alt+X
 
@@ -27,24 +27,26 @@ Install:
     Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
     install wisdom-tree
     install supermaven (https://github.com/supermaven-inc/supermaven-nvim)
+    install spotify
 
 Software:
 
     Install sublime text
     Install vs code
     Install brave
+    Install zen browser*
     install zed
 
 Usage Setup:
 
-    create a simplenote app with webapp-manager
-    Make brave, terminal(konsole), simplenote and station autostartup
+    create a notion app with webapp-manager
+    Make zen, terminal(konsole), notion and station autostartup
     make them default open to desktop 1, 2, 3 and 5 respectivly. 
     create shortcut to switch to dektop X(1-5) to alt+X
-    They are for browser, nvim, simplenote and messages respectivly.
+    They are for browser, nvim, notion and messages respectivly.
 
 Coding Setup:
 
 Note-taking Setup:
 
-    useing simplenote with markdown
+    using notion as an app with webapp-manager
