@@ -50,3 +50,12 @@ Coding Setup:
 Note-taking Setup:
 
     using notion as an app with webapp-manager
+
+Solving the Wifi Limited Connection problem:
+    isable Bluetooth Coexistence
+
+    You can try disabling Bluetooth coexistence in your Wi-Fi settings, which may reduce interference. To do this, you can add a configuration file:
+        Create or edit the file /etc/modprobe.d/iwlwifi.conf.
+        Add the following line:
+            options iwlwifi bt_coex_active=0
+        Reboot your system.
