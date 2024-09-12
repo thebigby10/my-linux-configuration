@@ -10,6 +10,8 @@ Shortcuts:
 
     switch to dektop X(1-5) to alt+X
 
+    map caps lock to esc key
+
 Install:
 
     Install ytfzf
