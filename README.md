@@ -33,7 +33,7 @@ Install:
 
 Software:
 
-    Install sublime text
+    Install sublime text (terminus)
     Install vs code
     Install brave
     Install zen browser*
