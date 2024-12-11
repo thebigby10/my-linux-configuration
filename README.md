@@ -16,7 +16,7 @@ Install:
 
     Install ytfzf
     Install auto-cpufreq
-    Install nvim with (nvchad, competitest(https://github.com/xeluxee/competitest.nvim), nvm-cheatsh (https://github.com/siawkz/nvim-cheatsh), auto-save( https://github.com/pocco81/auto-save.nvim )
+    Install nvim with (nvchad, auto-save( https://github.com/pocco81/auto-save.nvim )
     Install tmux
         set -g @plugin 'tmux-plugins/tpm'
         set -g @plugin 'tmux-plugins/tmux-sensible'
@@ -76,4 +76,16 @@ Disable Power Saving on Wi-Fi
         sudo systemctl enable NetworkManager
         sudo systemctl start NetworkManager
         sudo systemctl restart NetworkManager
+Home Row Mod:
+    
+    #only capslock behavious overload
+
+    install kanata(pacman)
+    put config.kbd on /home/thebigby01/.config/kanata (touch and mkdir if needed)
+    put kanat.service on /usr/lib/systemd/system
+    Then run:
+        systemctl daemon-reload
+        systemctl enable kanata.service
+        systemctl start kanata.service
+        systemctl status kanata.service
         
