@@ -16,7 +16,7 @@ Install:
 
     Install ytfzf
     Install auto-cpufreq
-    Install nvim with (nvchad, auto-save( https://github.com/pocco81/auto-save.nvim )
+    Install nvim with nvchad, auto-save( https://github.com/pocco81/auto-save.nvim), auto-session( https://github.com/rmagatti/auto-session ), supermaven
     Install tmux
         set -g @plugin 'tmux-plugins/tpm'
         set -g @plugin 'tmux-plugins/tmux-sensible'
