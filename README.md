@@ -35,7 +35,7 @@ Install:
     install spotify
 
 Software:
-
+    install obsidian
     Install sublime text (terminus)
     Install vs code
     Install brave
