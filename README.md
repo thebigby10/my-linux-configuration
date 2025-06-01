@@ -12,6 +12,7 @@ Shortcuts:
 
     map caps lock to esc key
 
+    ctrl + alt -> ghostty
 Install:
     
     install ghostty
