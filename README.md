@@ -83,7 +83,7 @@ Home Row Mod:
     
     #only capslock behavious overload
 
-    install kanata(pamac not pacman)
+    install kanata(pamac not pacman or cargo)
     put config.kbd on /home/thebigby01/.config/kanata (touch and mkdir if needed)
     put kanat.service on /usr/lib/systemd/system
     Then run:
