@@ -13,7 +13,8 @@ Shortcuts:
     map caps lock to esc key
 
 Install:
-
+    
+    install ghostty
     Install ytfzf
     Install auto-cpufreq
     Install nvim with nvchad, auto-save( https://github.com/pocco81/auto-save.nvim), auto-session( https://github.com/rmagatti/auto-session ), supermaven
