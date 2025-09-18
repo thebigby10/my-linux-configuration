@@ -80,14 +80,13 @@ Disable Power Saving on Wi-Fi
         sudo systemctl restart NetworkManager
 Home Row Mod:
     
-    #only capslock behavious overload
+    #modify capslock behavious overload from settings
 
-    install kanata(pamac not pacman or cargo)
-    put config.kbd on /home/thebigby01/.config/kanata (touch and mkdir if needed)
-    put kanat.service on /usr/lib/systemd/system
-    Then run:
-        systemctl daemon-reload
-        systemctl enable kanata.service
-        systemctl start kanata.service
-        systemctl status kanata.service
+    run: sudo pacman -S keyd
+    run: sudo nano /etc/keyd/default.conf
+    paste the default.conf
+    save
+    run: sudo systemctl enable keyd
+    run: sudo systemctl start keyd
+    run: sudo keyd reload
         
