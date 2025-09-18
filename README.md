@@ -32,13 +32,12 @@ Install:
     Install mpv(with ffsilent (https://github.com/mesvam/ff-silence) )
     install wisdom-tree
     install supermaven (https://github.com/supermaven-inc/supermaven-nvim)
-    install spotify
 
 Software:
+
     install obsidian
     Install sublime text (terminus)
     Install vs code
-    Install brave
     Install zen browser*
     install zed
 
